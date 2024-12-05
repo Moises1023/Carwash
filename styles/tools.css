@@ -1,0 +1,11 @@
+label i {
+    cursor: pointer;
+}
+
+.table th, .table td {
+    vertical-align: middle;
+}
+
+button {
+    cursor: pointer;
+}
